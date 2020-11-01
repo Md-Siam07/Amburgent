@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Amburgent</string>
+    <string name="facebook_app_id">680425939260907</string>
+    <string name="fb_login_protocol_scheme">fb680425939260907</string>
 </resources>
