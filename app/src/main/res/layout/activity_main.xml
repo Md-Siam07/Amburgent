@@ -27,7 +27,7 @@
         >
 
         <EditText
-            android:layout_width="350dp"
+            android:layout_width="300dp"
             android:layout_height="50dp"
             android:background="@drawable/ic_usernameg"
             android:fontFamily="@font/reem_kufi"
@@ -49,8 +49,8 @@
         >
 
         <EditText
-            android:layout_width="350dp"
-            android:layout_height="50dp"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
             android:background="@drawable/ic_phonenumg"
             android:fontFamily="@font/reem_kufi"
             android:hint="@string/phone_numbe"
@@ -84,15 +84,15 @@
         >
 
         <Button
-            android:layout_width="180dp"
+            android:layout_width="150dp"
             android:layout_height="50dp"
             android:background="@drawable/ic_withgoogleg"
-            android:layout_marginLeft="25dp"
+            android:layout_marginLeft="15dp"
             android:id="@+id/GoogleIn"
             />
 
         <Button
-            android:layout_width="180dp"
+            android:layout_width="150dp"
             android:layout_height="50dp"
             android:background="@drawable/ic_withfacebookg"
             android:layout_marginLeft="7dp"
