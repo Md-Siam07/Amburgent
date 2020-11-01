@@ -7,7 +7,7 @@
     tools:context=".MainActivity"
     android:weightSum="7"
     android:orientation="vertical"
-    android:background="@drawable/Background"
+    android:background="@drawable/background"
     >
 
     <LinearLayout
